@@ -1,0 +1,7 @@
+/import các thư viện cần thiết sau:
+pandas
+scikit-learn
+matplotlib
+seaborn
+plotly
+joblib
